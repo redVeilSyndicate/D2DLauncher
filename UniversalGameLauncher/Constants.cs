@@ -11,8 +11,8 @@ namespace UniversalGameLauncher {
         /// <summary>
         /// Core game info
         /// </summary>
-        public static readonly string GAME_TITLE = "TemsoftAutoClicker";
-        public static readonly string LAUNCHER_NAME = "Temsoft Launcher";
+        public static readonly string GAME_TITLE = "Dystopia 2D";
+        public static readonly string LAUNCHER_NAME = "D2D Launcher";
 
         /// <summary>
         /// Paths & urls

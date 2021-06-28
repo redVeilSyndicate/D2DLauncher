@@ -8,3 +8,17 @@ c:\users\teemu\onedrive\tiedostot\visual studio 2017\Projects\UniversalGameLaunc
 c:\users\teemu\onedrive\tiedostot\visual studio 2017\Projects\UniversalGameLauncher\UniversalGameLauncher\obj\Debug\UniversalGameLauncher.exe
 c:\users\teemu\onedrive\tiedostot\visual studio 2017\Projects\UniversalGameLauncher\UniversalGameLauncher\obj\Debug\UniversalGameLauncher.pdb
 C:\Users\teemu\OneDrive\Tiedostot\Visual Studio 2017\Projects\UniversalGameLauncher\UniversalGameLauncher\obj\Debug\UniversalGameLauncher.csprojAssemblyReference.cache
+F:\Source\Repos\Ascension\UniversalGameLauncher\UniversalGameLauncher\bin\Debug\UniversalGameLauncher.exe.config
+F:\Source\Repos\Ascension\UniversalGameLauncher\UniversalGameLauncher\bin\Debug\UniversalGameLauncher.exe
+F:\Source\Repos\Ascension\UniversalGameLauncher\UniversalGameLauncher\bin\Debug\UniversalGameLauncher.pdb
+F:\Source\Repos\Ascension\UniversalGameLauncher\UniversalGameLauncher\bin\Debug\ICSharpCode.SharpZipLib.dll
+F:\Source\Repos\Ascension\UniversalGameLauncher\UniversalGameLauncher\bin\Debug\ICSharpCode.SharpZipLib.pdb
+F:\Source\Repos\Ascension\UniversalGameLauncher\UniversalGameLauncher\bin\Debug\ICSharpCode.SharpZipLib.xml
+F:\Source\Repos\Ascension\UniversalGameLauncher\UniversalGameLauncher\obj\Debug\UniversalGameLauncher.csprojAssemblyReference.cache
+F:\Source\Repos\Ascension\UniversalGameLauncher\UniversalGameLauncher\obj\Debug\UniversalGameLauncher.Application.resources
+F:\Source\Repos\Ascension\UniversalGameLauncher\UniversalGameLauncher\obj\Debug\UniversalGameLauncher.Properties.Resources.resources
+F:\Source\Repos\Ascension\UniversalGameLauncher\UniversalGameLauncher\obj\Debug\UniversalGameLauncher.csproj.GenerateResource.cache
+F:\Source\Repos\Ascension\UniversalGameLauncher\UniversalGameLauncher\obj\Debug\UniversalGameLauncher.csproj.CoreCompileInputs.cache
+F:\Source\Repos\Ascension\UniversalGameLauncher\UniversalGameLauncher\obj\Debug\UniversalGameLauncher.csproj.CopyComplete
+F:\Source\Repos\Ascension\UniversalGameLauncher\UniversalGameLauncher\obj\Debug\UniversalGameLauncher.exe
+F:\Source\Repos\Ascension\UniversalGameLauncher\UniversalGameLauncher\obj\Debug\UniversalGameLauncher.pdb
